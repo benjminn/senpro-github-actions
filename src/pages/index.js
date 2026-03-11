@@ -30,7 +30,7 @@ export default function Home() {
 
         <div>
           <h5 className={inter.className}>
-            [Nama] | [NIU]
+            Benjamin Sigit | 514737
           </h5>
         </div>
       </main>
